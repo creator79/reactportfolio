@@ -2,8 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://raw.githubusercontent.com/creator79/reactportfolio/main/img1.png">
-Built using:
+
+<img align="1266" alt="Coding"   src="https://raw.githubusercontent.com/creator79/creator79/main/img1.png">
+
+
+<Built using:
 
 - Front-end library: React
 - CSS framework: React-bootstrap
